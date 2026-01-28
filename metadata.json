@@ -1,0 +1,7 @@
+{
+  "name": "SpeakEasy Lanka",
+  "description": "A conversational AI voice assistant for Sri Lankan English learners to practice speaking daily with confidence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
